@@ -1,8 +1,8 @@
-# Golang Reduce Binary Size
+# Golang Reduce Binary File Size
 
-+ build original binary size 9.3 MB
-+ build using -ldflags binary size 7.3 MB
-+ build using -ldflags + upx binary size 4.3 MB
++ build original binary file size **9.3 MB**
++ build using -ldflags binary file size **7.3 MB**
++ build using -ldflags + upx binary file size **4.3 MB**
 
 ## Command
 
