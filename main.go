@@ -13,7 +13,7 @@ const (
 
 type (
 	ApiResponse struct {
-		StatCode    uint32      `json:"statCode"`
+		StatCode    uint32      `json:"stat_code"`
 		StatMessage string      `json:"stat_message"`
 		Data        interface{} `json:"data,omitempty"`
 	}
